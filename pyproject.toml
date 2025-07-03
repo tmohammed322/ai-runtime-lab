@@ -1,0 +1,5 @@
+[project]
+name = "ai-runtime-lab"
+version = "0.1.0"
+description = "Engineering deterministic, production-grade systems around non-deterministic LLMs — FSM, durable execution, retries, DAGs, agent runtimes, model routing, edge inference, RAG, memory, multi-agent orchestration, security, and observability. 14 runnable proof-of-concept phases."
+requires-python = ">=3.10"
