@@ -13,3 +13,4 @@ if __name__ == "__main__":
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # guard against empty input
+# guard against empty input
